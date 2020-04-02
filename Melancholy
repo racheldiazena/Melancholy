@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="reset.css">
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <link href="https://fonts.googleapis.com/css?family=EB+Garamond&display=swap" rel="stylesheet">
+  <title>Melancholy</title>
+</head>
+
+<body>
+  <p class="hide">The apparition of these faces in the crowd:</p>
+  <h1>What is melancholy?</h1>
+  <img src="field.jpg" alt="Man in field on foggy day">
+  <h2>Dark house, by which once more I stand<br>
+    Here in the long unlovely street,<br>
+  Doors, where my heart was used to beat.<br>
+  So quickly, waiting for a hand,</h2>
+  <h2>A hand that can be clasp'd no more—<br>
+    Behold me, for I cannot sleep,<br>
+    And like a guilty thing I creep<br>
+    At earliest morning to the door.</h2>
+  <img src="water.jpg" alt="Foggy ocean">
+  <h1 class="left">He is not here; but far away</h1>
+  <p>The noise of life begins again,<br>
+    And ghastly thro' the drizzling rain<br>
+    On the bald street breaks the blank day.</p>
+  <img src="lettering.jpg" alt="hand lettering of poem">
+  <img class="sunset" src="sunset.jpg" alt="Sunset on a road">
+  <h2>“And the days are not full enough<br>
+    And the nights are not full enough<br>
+    And life slips by like a field mouse.<br>
+    Not shaking the grass.”</h2>
+  <p>But -<br>
+    These days it feels<br>
+    The days are much too full.<br>
+    As if life will just keep going and going,<br>
+    Mercilessly,<br>
+    Without end.</p>
+  <p>Life is crawling. Life is dawdling.</p>
+  <p>A desolate march forward with no
+    Purpose,<br>
+    And an unspoken rule that one must<br>
+    Keep on.<br>
+    Despite everything.<br>
+    Despite unlivableness.<br>
+    But we must keep going on and on.</p>
+  <p>On and on, so that others<br>
+    We know<br>
+    Can keep on.</p>
+  <p>And they will keep on for us.</p>
+  <img src="treestumps.png" alt="Tree stumps poking through fog">
+  <div class="blackbg">
+    <p class="hidden">I have been one acquainted with the night.<br>
+      I have walked out in rain—and back in rain.<br>
+      I have outwalked the furthest city light.<br>
+      I have looked down the saddest city lane.</p>
+    <h1 class="white">What is my melancholy?</h1>
+    <img class="je" src="je-oldpain.png" alt="A journal entry">
+    <img class="je" src="je-trees.png" alt="A journal entry">
+    <img class="je" src="je-isolation.png" alt="A journal entry">
+    <img class="je" src="je-world.png" alt="A journal entry">
+    <img class="je" src="je-poem.png" alt="A journal entry">
+    <img class="je" src="je-moon.png" alt="A journal entry">
+    <img class="je" src="je-tornado.png" alt="A journal entry">
+    <img class="je" src="je-hole.png" alt="A journal entry">
+    <img class="je" src="je-die.png" alt="A journal entry">
+    <img class="je" src="je-lovely.png" alt="A journal entry">
+  </div>
+  <img src="hands.png" alt="georgia o'keefe and fabric">
+  <h1>Dear Melancholy,</h1>
+  <p>You’re always there when I have nothing else to feel. I remember a long time ago when it was hard for me to feel much of anything, and when you showed up and let me cry for the first time in a while - I didn’t realize how much of a husk I had been. I was a shell, completely empty, and you filled me back up (but not all the way). You left me empty enough to start looking for something more. After you have your say, you always step back a little bit and let the other feelings in.</p>
+  <p>You’re very powerful. Very imposing. You take up space. You know when to leave though, and that is what keeps me comfortable with you.</p>
+  <p>I’ve never thought it was a good idea to romanticize things like depression. I think depression is different from melancholy, though. You can feel sad while depressed I guess, but depression is just apathetic. For me, anyway. When I’m melancholy, there’s so much I want. I want to the point of bursting. I want until I could explode. I want to cry, to scream, to kick, to run around and around and around as much as I can. I wanna sit outside in the rain. I want to be held and I want to squeeze. I want to hit things and hold things and pet soft things. I wanna be warm.</p>
+  <p>I always feel a pull to create when I’m with you, melancholy. I always wanna just let myself loose and use as many colors as possible and as many lines as possible. You bring out the maximalist in me. You bring out the fine artist in me, (and the writer and the philosopher and the bitch and the baby). You’re in everything I create. You’re in my heart always.</p>
+  <img src="rocky.png" alt="Rocks in the sea">
+  <h2>But, it’s complicated.<br> It hurts when you’re here. We’re taught that things we love should make us happy but you don’t make me happy. You make me more understanding, more thankful, gentler, kinder, and more human - but you do not make me happy.</h2>
+  <p>I want lots of bad things when you’re here as well as good things. But sometimes, when you’re not filling me up all the way, I’m alright. I’m comfortable. I feel you but you aren’t all over, just in small areas and sometimes I even forget about you.</p>
+  <h1 class="left">(until it’s dark outside, or I feel a cool breeze, or it gets cloudy, or I have to put on a jacket).</h1>
+  <p> You don’t bring me down and you don’t build me up, you’re just a little twinge. It’s like you’re ever so slightly twisting my stomach up, but only a tiny tiny bit. Just so I don’t forget you’re there.</p>
+  <p>I really do love you. I wouldn’t be me without you. I love when you’re here and I think more than I usually do and I learn a lot more than usual just by sitting and thinking. You make all good things better. You make me better. Without you I’d be shallow and inadequate and untalented and fake and weird. I welcome you whenever you need company.</p>
+  <h1 class="left">Just don’t stay too long - </h1>
+  <h2>I don’t wanna stop loving you and I don’t wanna stop needing you.</h2>
+  <div class="blackbg">
+    <img src="change.jpg" alt="Writing On Change">
+    <img src="haiku1.jpg" alt="haiku about melancholy">
+    <p class="white">How does one describe<br>
+      The music in their head?<br>
+      How do I paint that picture<br>
+      Of green grown wild with rain,<br>
+      Of mountains grown taller with age,<br>
+      Of my own legs grown longer<br>
+      Throughout time, not without growing<br>
+      Pains?</p>
+    <h1 class="left white">A parasite can be as lovely<br>
+      As the host.</h1>
+    <p class="white">How do I talk to the ghost<br>
+      On the side of the road, stood<br>
+      There to warn people of<br>
+      The curve in the bend?</p>
+    <p class="white">Is it the end when<br>
+      I recite poetry nobody has written<br>
+      Yet? Is it over when<br>
+      I get older? When I see who I<br>
+      Am?</p>
+    <img src="imsorry.jpg" alt="my bedroom">
+    <h2 class="white">So please don't let me sit under those blankets by myself</h2>
+    <p class="white">I've waited so long for something that is slipping out of reach now. Is it cruel to want ease?</p>
+    <h2 class="white">It's hard to talk about things when you don't want to talk about them. When you're scared to. It's hard to let myself feel things anymore. It feels like these should be things that children feel. I'm all grown up now, right?</h2>
+    <p class="white">I've spent a lot of quality time with the view of the nursing home across the street and the songbirds that live by the amputee trees outside my bedroom window. I've spent a lot of time thinking about nothing. I've spent time watching the entrance to see if I could see your car pulling in. I've wasted a lot of time muddled into the duvet like a little lime, staring at the little coffee stain on the wall that I made when I was trying to navigate through the tiny canal between our bed and the wall. We share that wall. I've spent a lot of time wondering what goes through our walls.</p>
+    <p class="white">I've spent a lot of time wondering if I'm too dramatic.</p>
+    <h2 class="white">Can you see what I'm feeling?<br> Can you feel what I'm thinking?</h2>
+    <p class="white">Who am I kidding - You see into me through the way my eyes move in centimeters.</p>
+    <p class="white">I've spent a lot of time thinking about how different I would be if I had been allowed to understand things other than what they understood. I've spent a lot of time digging into the words they told me to memorize and hearing them like a heathen. It's a little bit fun to understand new things now.</p>
+    <h2 class="white">If I said anything to her, she'd just cry. Just look at me and wonder what she did wrong. She'd think it was her fault. She'd think I did it to spite her. She'd think I thought she was stupid.</h2>
+    <h2 class="white last">I wish they would open up. I wish I could open up too.</h2>
+  </div>
+  <p class="hide">I want my parents to know that I love them. I tell them. I want them to know I hate god. I want them to know what it did to me.</p>
+  <h2>I've tasted disaster. Odd flavor. She's bitter and burning. She's soft and new.</h2>
+  <h2>Hear this, you foolish and senseless people, who have eyes but do not see, who have ears but do not hear:</h2>
+  <h1 class="left">The way you told me to forget my own sense of self left me so empty I felt like I was hungry all of the time. Hungry for something else - something that might actually fulfill me. The way you told me I was evil for existing made my child-brain corrugate into itself so deeply that I am still unfolding it. It's been 7 years since I began learning how to become whole.</h1>
+  <h1 class="left">It's been 7 years since I wrote note upon note about why and how and who and where and the reason the good shepherd made me want to leave this hell so badly.</h1>
+  <p>I can still recite it all. I know so much. I wonder how much I would know now if I had been taught other things. I wonder about the power I could weild if I had been allowed to belong to myself. I remember so clearly the last time I cried on the shitty red carpet of a church. I've only broken that way twice in my life. It was just before I thought about that fade-to-black.</p>
+  <p>I remember the hands on my shoulders. I remember the blurry steps up to the stage and the microphone cords running down the stairs. I remember the hands but I can't remember the faces. There are always hands on your shoulders but what does that help? I remember the aftermath. I remember how empty I was after letting everything I hated and everything I wanted and everything I was disgusted by run out of my face in front of everyone.</p>
+  <h2>I remember him not caring much. I remember them letting me sleep alone afterwards.</h2>
+  <p>I remember going home and thinking about why.</p>
+  <div class="blackbg">
+    <h1 class="left white top">Have I ever talked about the time I tried to figure things out for myself?</h1>
+    <h2 class="white">I don't want to. I ended up okay. Nobody knew. Nobody noticed and I wanted it that way. I was weak I guess. I didn't know what I was doing.</h2>
+    <p class="white">I wanted to do it again. I told him in a roundabout way and I watched Submarine instead. He wasn't even mine yet. I don't know what would've happened if I didn't watch Submarine. I wanted him so badly I could've cried.</p>
+    <h2 class="left white">He's mine now.<br> Things still hurt from time to time but that's that.</h2>
+    <h2 class="left white">Life goes on for some.</h2>
+    <h2 class="left white">It doesn't for others.</h2>
+    <h1 class="left white last">Isn't it beautiful? Isn't it lovely? Isn't it scary? Isn't it heartbreaking and gutwrenching and terrible?<br> Isn't it fucking horrible? Isn't it fucking exhilerating?</h1>
+    <img src="pit.jpg" alt="a hole in the earth">
+  </div>
+
+</body>
+
+</html>
